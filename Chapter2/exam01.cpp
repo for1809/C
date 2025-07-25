@@ -10,7 +10,7 @@ int main() {
     printf("세 번째 계산할 값을 입력하세요 ==>\n");
     scanf("%d", &c);
     printf("네 번째 계산할 값을 입력하세요 ==>\n");
-    scanf("%d", &d);
+    scanf("%d", &d);2
 
     printf("%d + %d + %d + %d = %d\n", a, b, c, d, a + b + c + d);
 
